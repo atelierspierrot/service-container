@@ -1,0 +1,33 @@
+{
+    "name": "atelierspierrot/service-container",
+    "type": "library",
+    "description": "The dependency injection package of Les Ateliers Pierrot.",
+    "keywords": [ "library", "service-container", "dependency-injection" ],
+    "homepage": "http://github.com/atelierspierrot/service-container",
+    "license": "Apache-2.0",
+    "authors": [{
+        "name": "Les Ateliers Pierrot & contributors",
+        "email": "contact@ateliers-pierrot.fr",
+        "homepage": "http://www.ateliers-pierrot.fr/"
+    },{
+        "name": "Pierre Cassat",
+        "homepage": "http://e-piwi.fr/"
+    }],
+    "require": {
+        "php": ">=5.4.0",
+        "atelierspierrot/patterns": "~1.0.9",
+        "atelierspierrot/library": "~1.1.0"
+    },
+    "require-dev": {
+        "psr/log": "dev-master",
+        "sami/sami": "2.*",
+        "phpunit/phpunit": "3.7.*",
+        "phpmd/phpmd" : "1.4.*"
+    },
+    "autoload": { "psr-0": {  "ServiceContainer": "src" } },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
