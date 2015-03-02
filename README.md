@@ -22,7 +22,7 @@ The latest version of this documentation is available online at <http://docs.ate
 
 ## Author & License
 
->    HTTP fundamental
+>    Service Container
 
 >    http://github.com/atelierspierrot/service-container
 
