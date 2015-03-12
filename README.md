@@ -1,7 +1,7 @@
 Service container
 =================
 
-[![documentation](http://img.ateliers-pierrot-static.fr/readthe-doc.png)](http://docs.ateliers-pierrot.fr/service-container/)
+[![documentation](http://img.ateliers-pierrot-static.fr/read-the-doc.svg)](http://docs.ateliers-pierrot.fr/service-container/)
 The dependency injection package of Les Ateliers Pierrot
 
 
