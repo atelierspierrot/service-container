@@ -26,6 +26,8 @@ namespace ServiceContainer;
  * Interface ServiceProviderInterface
  *
  * Use this to encapsulate a service.
+ * 
+ * @author  piwi <me@e-piwi.fr>
  */
 interface ServiceProviderInterface
 {

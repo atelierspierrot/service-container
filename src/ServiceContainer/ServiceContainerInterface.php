@@ -32,6 +32,7 @@ namespace ServiceContainer;
  * Any service is overwritable by default but can be not using
  * the `$protected = true` register argument.
  *
+ * @author  piwi <me@e-piwi.fr>
  */
 interface ServiceContainerInterface
 {

@@ -31,6 +31,7 @@ use \Library\Helper\Code as CodeHelper;
  * A simple service container with constructors
  *
  * @requires PHP 5.4+
+ * @author  piwi <me@e-piwi.fr>
  */
 class ServiceContainer
     implements ServiceContainerInterface
