@@ -9,9 +9,9 @@ go to <https://github.com/atelierspierrot/service-container/commit/COMMIT_HASH>.
 
 * v1.0.0 (2015-03-02)
 
-    * 7395f60 - add the Sami configuration (piwi <me@e-piwi.fr>)
-    * 9837778 - add the documentation (piwi <me@e-piwi.fr>)
-    * 98510ee - first version taken from atelierspierrot/library (piwi <me@e-piwi.fr>)
-    * 401d119 - add the SplClassLoader (piwi <me@e-piwi.fr>)
-    * 7774675 - add informational & manifest files (piwi <me@e-piwi.fr>)
-    * dc5bd01 - add a common gitignore (piwi <me@e-piwi.fr>)
+    * 7395f60 - add the Sami configuration (piwi)
+    * 9837778 - add the documentation (piwi)
+    * 98510ee - first version taken from atelierspierrot/library (piwi)
+    * 401d119 - add the SplClassLoader (piwi)
+    * 7774675 - add informational & manifest files (piwi)
+    * dc5bd01 - add a common gitignore (piwi)
