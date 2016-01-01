@@ -2,6 +2,8 @@ Service container
 =================
 
 [![documentation](http://img.ateliers-pierrot-static.fr/read-the-doc.svg)](http://docs.ateliers-pierrot.fr/service-container/)
+[![Code Climate](http://codeclimate.com/github/atelierspierrot/service-container/badges/gpa.svg)](http://codeclimate.com/github/atelierspierrot/service-container)
+
 The dependency injection package of Les Ateliers Pierrot
 
 
@@ -32,7 +34,7 @@ Author & License
 
 >    http://github.com/atelierspierrot/service-container
 
->    Copyright (c) 2015 Pierre Cassat and contributors
+>    Copyright (c) 2015-2016 Pierre Cassat and contributors
 
 >    Licensed under the Apache 2 license.
 
